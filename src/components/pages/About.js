@@ -25,7 +25,7 @@ export default function About() {
           </p>
         </aside>
 
-        <div className="pt-5 pl-5 col-md-8 col-sm-12">
+        <div className="pt-5 pl-5 col-md-7 col-sm-12">
           <a href="https://www.youtube.com/watch?v=ibP9U3oGP_w"><img className="mr-4 img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/ndGnqvL.gif"
           /></a>
           <a href="https://www.youtube.com/watch?v=iCClj4koRD8"><img className=" img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/S4PWZUe.gif"
@@ -38,7 +38,7 @@ export default function About() {
           /></a>
 
           <h5 className="pt-5 pb-2 pr-5 text-center">I've been into gaming my whole life. This picture is from 2006 when I was in high school. Boy do I feel old.</h5>
-          <img className="mx-auto d-block w-100 img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/eXJA9Kx.jpg"
+          <img className="mx-auto mb-3 d-block w-100 img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/eXJA9Kx.jpg"
           ></img>
         </div>
 
