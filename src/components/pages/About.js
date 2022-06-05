@@ -5,7 +5,7 @@ export default function About() {
     <div >
       <div className="row">
         <aside className=" pl-5 col-md-3 col-sm-12">
-          <img className="ml-5 rounded-circle img-thumbnail shadow-lg" alt="100x100" src="https://i.imgur.com/UZTkY7O.jpg?1"
+          <img className="ml-5 mt-5 rounded-circle img-thumbnail shadow-lg" alt="100x100" src="https://i.imgur.com/UZTkY7O.jpg?1"
           />
           <p className=" pt-3">Hi my name is Danny!</p>
           <p >
@@ -30,7 +30,7 @@ export default function About() {
           /></a>
           <a href="https://www.youtube.com/watch?v=iCClj4koRD8"><img className=" img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/S4PWZUe.gif"
           /></a>
-          <h5 className="text-center pb-3 pt-3 pr-5">I like fly drones and make youtube videos from the footage.</h5>
+          <h5 className="text-center pb-3 pt-3 pr-5">I like to fly drones and make Youtube videos from the footage.</h5>
           <h5 className="pt-3 pb-3 text-center pr-5">And I also build and race my own drones.</h5>
           <a href="https://youtu.be/4jdyrTbCnbk"><img className="mr-4 img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/qF8679h.gif"
           /></a>
