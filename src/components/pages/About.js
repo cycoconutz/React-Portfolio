@@ -34,7 +34,7 @@ export default function About() {
           <h5 className="pt-3 pb-3 text-center pr-5">And I also build and race my own drones.</h5>
           <a href="https://youtu.be/4jdyrTbCnbk"><img className="mr-4 img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/qF8679h.gif"
           /></a>
-          <a href="https://youtu.be/xrvNDJRO-ls"><img className="mr-4 img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/H2Zy04i.gif"
+          <a href="https://youtu.be/xrvNDJRO-ls"><img className="mr-3 img-thumbnail rounded shadow-lg" alt="100x100" src="https://i.imgur.com/H2Zy04i.gif"
           /></a>
 
           <h5 className="pt-5 pb-2 pr-5 text-center">I've been into gaming my whole life. This picture is from 2006 when I was in high school. Boy do I feel old.</h5>

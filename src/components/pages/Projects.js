@@ -23,9 +23,9 @@ export default function Projects() {
         <div className="col-12 col-sm">
           <h4 className="text-center mt-5 font-weight-bold">Project Quacker:</h4>
           <br></br>
-          <h5 className="text-left">In this project we had 4 days to come up with the idea, wireframe it, design the database, develop, bug test, and deploy.</h5>
+          <h5 className="text-left">In this project we had 4 days to come up with the idea, wireframe it, design the database, develop, bug test, and deploy. We used MySQL and restful API routes, Nodejs and Express to run the server, Session to handle the cookies, Handlebars to populate the front end content and Materialize to style it. </h5>
           <br></br>
-          <h5 className="text-left">We used MySQL and restful API routes, Nodejs and Express to run the server, Session to handle the cookies, Handlebars to populate the front end content and Materialize to style it. </h5>
+          <h5 className="text-left">This was my second group project and, while we got a working product by the end, I learned a LOT about cohesively working as a team. I learned a lot on the subject of Git merge issues to say the least.</h5>
         </div>
         <div className="col-sm-6 col-12">
           <a target="_blank" href="https://glacial-shelf-75917.herokuapp.com/">
@@ -44,9 +44,42 @@ export default function Projects() {
           <br></br>
           <h5 className="text-left">Since this was developed earlier in my curriculum, the design was much simpler. We used HTML/CSS/JS for everything, and utilized user input filters for fetch calls to the database</h5>
         </div>
-        <div className="col-sm-6 col-12">
+        <div className="col-sm-6 col-12 mt-5">
           <a target="_blank" href="https://cycoconutz.github.io/Project-1/">
             <img src="https://i.imgur.com/Nrgf6i5.png" class="mt-5 d-block img-thumbnail mx-auto" alt="..." />
+          </a>
+        </div>
+        <div className="col-12 col-sm">
+        </div>
+        <br></br>
+      </div>
+      <div className="row">
+        <div className="col-12 col-sm">
+          <h4 className="text-center mt-5 font-weight-bold">Tech Blog:</h4>
+          <br></br>
+          <h5 className="text-left">For this project I used MySQL as the database and deployed with Heroku. That was a lot harder than I just made it sound but with a lot of Google-Fu I managed to get it deployed and working. The front end was more of a second thought for this project so I just used some really basic Bootstrap cards. My primary focus was on database functionality and getting the front and backend working harmoniously.</h5>
+          <br></br>
+          <h5 className="text-left">I'm incredibly proud of this one, there were hours poured into deploying over and over and chasing bugs. Success feels the best when you feel like you really worked for it.</h5>
+        </div>
+        <div className="col-sm-6 col-12 mt-5">
+          <a target="_blank" href="https://obscure-brook-04302.herokuapp.com/">
+            <img src="https://i.imgur.com/jlaSNiS.png" class="mt-5 d-block img-thumbnail h-75 mx-auto" alt="..." />
+          </a>
+        </div>
+        <div className="col-12 col-sm">
+        </div>
+        <br></br>
+      </div>
+      <div className="row">
+        <div className="col-12 col-sm">
+          <h4 className="text-center mt-5 font-weight-bold">Note Taker:</h4>
+          <br></br>
+          <h5 className="text-left">One of my earlier projects but still something I'm proud of. For this I learned to accomplish using local storage for saving any data put into the forms. One of the projects I worked on not long after that taught me to use manifest.json to download apps. I that will be a good next step for further development on this project.</h5>
+          <br></br>
+        </div>
+        <div className="col-sm-6 col-12 mt-5">
+          <a target="_blank" href="https://dannys-note-taker.herokuapp.com/notes">
+            <img src="https://i.imgur.com/CG5Ylre.png" class="mt-5 d-block img-thumbnail h-75 mx-auto" alt="..." />
           </a>
         </div>
         <div className="col-12 col-sm">
