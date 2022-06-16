@@ -27,3 +27,6 @@ jobs:
         cache: 'npm'
     - run: npm i
     - run: npm run deploy
+    env: 
+      CI: false
+      PUBLIC_URL: http://www.johndyates.com
