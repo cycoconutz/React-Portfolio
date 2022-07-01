@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://www.johndyates.com/static/css/main.d5bcaed3.css",
-    "main.js": "https://www.johndyates.com/static/js/main.02942eb1.js",
+    "main.js": "https://www.johndyates.com/static/js/main.73a5e479.js",
     "index.html": "https://www.johndyates.com/index.html",
     "main.d5bcaed3.css.map": "https://www.johndyates.com/static/css/main.d5bcaed3.css.map",
-    "main.02942eb1.js.map": "https://www.johndyates.com/static/js/main.02942eb1.js.map"
+    "main.73a5e479.js.map": "https://www.johndyates.com/static/js/main.73a5e479.js.map"
   },
   "entrypoints": [
     "static/css/main.d5bcaed3.css",
-    "static/js/main.02942eb1.js"
+    "static/js/main.73a5e479.js"
   ]
 }
