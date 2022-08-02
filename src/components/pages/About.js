@@ -9,19 +9,19 @@ export default function About() {
           />
           <p className=" pt-3">Hi my name is Danny!</p>
           <p >
-            I am a junior Full Stack Developer from Austin, TX.
+            I am a junior Frontend Web Developer from Austin, TX.
+          </p>
+          <p >
+            I grew up around computers and consider myself advanced as far as computer literacy. But the bootcamp was my first exposure to coding and I loved it. Now in my free time I find myself watching Youtube videos explaining new coding concepts or going over ones we learned during class (<a href="https://www.youtube.com/c/TraversyMedia">Traversy Media is awesome btw</a>).
           </p>
           <p>
-            I worked in the restaurant industry for over 14 years, from my first job delivering pizzas when i was 16, to my latest job as an assistant general manager at a destination spot in downtown Austin.
+            I worked in the restaurant industry for over 14 years, from my first job delivering pizzas when I was 16, to my latest job as an assistant general manager at a destination spot in downtown Austin.
           </p>
           <p >
             I loved working in restaurants but ultimately I was not able to grow much more in that idustry. So I  decided to change careers into the tech industry and enrolled and graduated from UT-Austin's Coding Bootcamp.
           </p>
           <p >
-            I grew up around computers and consider myself advanced as far as computer literacy. But the bootcamp was my first exposure to coding and I loved it. Now in my free time I find myself watching Youtube videos explaining new coding concepts or going over ones we learned during class (<a href="https://www.youtube.com/c/TraversyMedia">Traversy Media is awesome btw</a>).
-          </p>
-          <p >
-            I'm excited for what's in store for my future. Change can be daunting but I've never been one to shy way from a challenge. I look forward to diving into this fast paced industry and developing further as a coder.
+            I'm excited for what's in store for my future. Change can be daunting but I've never been one to shy way from a challenge. I look forward to diving into this fast paced industry and developing further as a programmer.
           </p>
         </aside>
 
