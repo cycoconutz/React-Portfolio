@@ -15,7 +15,7 @@ export default function Projects() {
           <h5 className="text-left">I couldn't be more proud of the team I worked with and the finished product.</h5>
         </div>
         <div className="col-12">
-          <a target="_blank" href="https://serene-tor-70368.herokuapp.com/">
+          <a target="_blank" href="https://karmatic-66b6b5d33dca.herokuapp.com/">
             <img src="https://i.imgur.com/OBPLIgn.png" class="mt-5 d-block w-100 mx-auto" alt="..." />
           </a>
           <br></br>
